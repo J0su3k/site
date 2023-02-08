@@ -1,4 +1,4 @@
----
+Il y une personne qui a pirater mon groupe---
 id: the-basics
 title: The Basics
 sidebar_label: The Basics
